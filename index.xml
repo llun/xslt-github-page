@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="index.xslt"?>
+<user>
+  <head>
+    <meta property="og:title" content="ShopSpot" />
+    <meta property="og:description" content="Online marketplace in mobile" />
+  </head>
+  <twitter>llun</twitter>
+  <github>llun</github>
+</user>
