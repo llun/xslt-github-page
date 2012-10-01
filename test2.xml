@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="index2.xslt"?>
+<root>
+  <head>
+    <meta property="og:title" content="llun" />
+    <meta property="og:description" content="Sample XSLT page" />
+  </head>
+  <user>
+    <twitter>llun</twitter>
+    <github>llun</github>
+  </user>
+</root>
