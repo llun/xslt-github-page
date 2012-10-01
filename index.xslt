@@ -2,7 +2,7 @@
 <xsl:stylesheet version="1.0"
 xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
 
-<xsl:template match="root/user">
+<xsl:template match="html/user">
   <html>
     <head>
       <title>Sample XML Render with XSLT</title>
