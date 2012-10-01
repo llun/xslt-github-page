@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="index.xslt"?>
-<root>
+<html>
   <head>
     <meta property="og:title" content="llun" />
     <meta property="og:description" content="Sample XSLT page" />
@@ -9,4 +9,4 @@
     <twitter>llun</twitter>
     <github>llun</github>
   </user>
-</root>
+</html>
