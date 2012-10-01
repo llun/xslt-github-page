@@ -4,6 +4,11 @@
   <head>
     <meta property="og:title" content="llun" />
     <meta property="og:description" content="Sample XSLT page" />
+    
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:url" content="http://llun.github.com/test/index.xml" />
+    <meta name="twitter:title" content="Sample XML, XSLT and Twitter Card" />
+    <meta name="twitter:description" content="This is test page for proof that xml can display content on Facebook and Twitter" />
   </head>
   <user>
     <twitter>llun</twitter>
